@@ -1,12 +1,21 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 3
+description: Curriculum vitae.
 ---
+
+<p>
+  <a
+    class="btn btn-outline-primary"
+    href="{{ '/assets/pdf/Yongrui_Yu_CV.pdf' | relative_url }}"
+    target="_blank"
+    rel="noopener"
+  >
+    Download CV
+  </a>
+</p>
+
+[![Preview of Yongrui Yu's curriculum vitae]({{ '/assets/img/Yongrui_Yu_CV_preview.png' | relative_url }}){:.img-fluid}]({{ '/assets/pdf/Yongrui_Yu_CV.pdf' | relative_url }}){:target="_blank" rel="noopener" aria-label="Open Yongrui Yu's curriculum vitae as a PDF"}
