@@ -24,6 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+[yongrui@umich.edu](mailto:yongrui@umich.edu)
+
 I am a senior pursuing B.S. degrees in **Mathematics** and **Computer Science** at the [University of Michigan](https://umich.edu/), alongside a B.S.E. in **Electrical and Computer Engineering** at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
 My research interests lie in theoretical computer science, particularly algorithms and data structures. My previous and ongoing projects are available on the [research page](/research/).
@@ -37,4 +39,4 @@ I'm seeking gradschool opportunities. Be sure to view my CV [here](/cv/)！
 
 ## Research interests
 
-Algorithms and data structures; $k$-SAT algorithms; online algorithms.
+Theoretical computer science; algorithms and data structures.
